@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikas.
 - 👀 I’m interested in coding, music, travelling, some more music.
-- 🌱 I’m currently learning DSA and Kotlin based Andorid Deveplement.
+- 🌱 I’m currently learning DSA and MERN Deveplement. 
 - 📫 How to reach me mail- @vkvs02@gmail.com
 - ✌️ ping me to teach me something new :D
 
